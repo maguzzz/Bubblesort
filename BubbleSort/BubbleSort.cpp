@@ -12,13 +12,18 @@ int main()
 	
 	int number;
 	int array[MAX];
-	cout << "Enter a Number: ";
-	cin >> number;
 
-	//Checking if the inptut number is bigger then 
-	if (number > MAX)
-	{
-		cout << "Enter a number in the range of " << MAX << endl;
+	//Checking if the inptut number is bigger then 100 or smaller then 1
+	while (true) {
+		cout << "Enter a Number: ";
+		cin >> number;
+		if (number > MAX || number < 1)
+		{
+			cout << " ERROR | Enter a number in the range of " << MAX << endl;
+			continue;
+		}
+		break;
+
 	}
 
 	//inputting values in an array
