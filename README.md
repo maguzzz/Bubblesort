@@ -1,5 +1,5 @@
 # Bubblesort
-Bubblesort algorithm visualized with SFML
+Bubblesort algorithm
 
 
 Bubblesort Flow Chart
