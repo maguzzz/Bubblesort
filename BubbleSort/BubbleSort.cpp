@@ -8,8 +8,6 @@ using namespace sf;
 
 int main()
 {
-	RenderWindow window(VideoMode(800, 600), "Sorting Visualizer");
-	
 	int number;
 	int array[MAX];
 
