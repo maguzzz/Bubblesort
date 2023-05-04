@@ -1,7 +1,3 @@
-# Bubblesort
-Bubblesort algorithm
+<h2>Preview</h2>
 
-
-Bubblesort Flow Chart
-<br>
-![Bubblesort](https://user-images.githubusercontent.com/65002100/225844931-f437b965-7b9f-4574-9f3d-15b04ab1bb9f.jpeg)
+![BubbleSort](https://user-images.githubusercontent.com/65002100/236285260-016a19a4-794d-4f95-8f89-749ba988e359.gif)
